@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="game_project.classes.Counter">
+    <Position X="19.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQA=</HashCode>
+      <FileName>Classes\Counter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game_project.classes.GifTimer">
+    <Position X="17.25" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAABAAAAEQAAAAAAAEBAgAAABAAAEAAA=</HashCode>
+      <FileName>Classes\GifTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game_project.classes.Music">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAQQAAAAAEAAAQAAAAA=</HashCode>
+      <FileName>Classes\Music.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game_project.classes.seasons">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAABAAAAABBAAAAAAA=</HashCode>
+      <FileName>Classes\Weather\seasons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game_project.classes.Summer">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAsAAAAQAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Classes\Weather\Summer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game_project.classes.Winter">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAsAAAAQAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Classes\Weather\Winter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="game_project.MainPage" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAEAAIiABQCICAASBAkgoABICkEAACBAEgAOAEgAg=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="game_project.ResetScreen" BaseTypeListCollapsed="true">
+    <Position X="14.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>ResetScreen.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="game_project.OpenScreen">
+    <Position X="14.75" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAABAAQAIAAAAAEAAAAAAAACCkAAA=</HashCode>
+      <FileName>OpenScreen.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

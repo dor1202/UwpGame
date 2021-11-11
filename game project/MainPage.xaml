@@ -1,0 +1,107 @@
+﻿<Page
+    x:Class="game_project.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:game_project"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid x:Name="grid" FocusVisualSecondaryBrush="{x:Null}" FocusVisualPrimaryBrush="{x:Null}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100px"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100px"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100px"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="100px"/>
+        </Grid.ColumnDefinitions>
+        <Canvas Grid.Column="1" Grid.Row="1" Background="LightGoldenrodYellow">
+            <Grid x:Name="bar_grid" Height="205" Width="339" Canvas.Left="215" BorderBrush="#FF0D0D0D">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="46*"/>
+                    <ColumnDefinition Width="293*"/>
+                </Grid.ColumnDefinitions>
+                <ProgressBar x:Name="eat_bar" HorizontalAlignment="Left" Height="23" Margin="13,34,0,0" VerticalAlignment="Top" Width="242" Value="100" Foreground="Black" Grid.ColumnSpan="2"/>
+                <ProgressBar x:Name="sleep_bar" HorizontalAlignment="Left" Height="23" Margin="13,79,0,0" VerticalAlignment="Top" Width="242" Value="100" Foreground="Black" Grid.ColumnSpan="2"/>
+                <ProgressBar x:Name="love_bar" HorizontalAlignment="Left" Height="23" Margin="13,121,0,0" VerticalAlignment="Top" Width="241" Value="100" Foreground="Black" Grid.ColumnSpan="2"/>
+                <ProgressBar x:Name="play_bar" HorizontalAlignment="Left" Height="23" Margin="13,167,0,0" Width="240" VerticalAlignment="Top" Value="100" Foreground="Black" Grid.ColumnSpan="2"/>
+                <TextBlock x:Name="eat_txt" HorizontalAlignment="Left" Margin="23,17,0,0" Text="Food:" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="#FF3A3A3B" FontFamily="Ink Free" RenderTransformOrigin="0.525,0.529" Grid.ColumnSpan="2" FontSize="14" Width="31"/>
+                <TextBlock x:Name="sleep_txt" HorizontalAlignment="Left" Margin="23,62,0,0" Text="Sleep:" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Ink Free" Grid.ColumnSpan="2" FontSize="14" Width="37"/>
+                <TextBlock x:Name="love_txt" HorizontalAlignment="Left" Margin="23,104,0,0" Text="Love:" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Ink Free" Grid.ColumnSpan="2" FontSize="14" Width="34"/>
+                <TextBlock x:Name="play_txt" HorizontalAlignment="Left" Margin="23,149,0,0" Text="Play:" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Ink Free" Grid.ColumnSpan="2" FontSize="14" Width="30"/>
+            </Grid>
+            <TextBlock x:Name="TimerTxt" Canvas.Left="60" Canvas.Top="249" Text="" TextWrapping="Wrap" Width="426" Height="105" FontSize="72" TextAlignment="Center" Visibility="Collapsed" FontFamily="Ink Free"/>
+
+        </Canvas>
+        <TextBlock x:Name="game_name" Grid.Column="1" HorizontalAlignment="Center" Text="Tamagotchi:" TextWrapping="Wrap" VerticalAlignment="Center" Height="82" Width="302" FontSize="48" FontWeight="Bold" FontFamily="Ink Free"/>
+        <Button x:Name="feed_btn" Content="Food" Grid.Column="1" Margin="44,385,0,0" Grid.Row="1" VerticalAlignment="Top" Width="128" Height="93" FontSize="24" RenderTransformOrigin="0.509,0.485" Tapped="feed_btn_Tapped" FontFamily="Ink Free"/>
+        <Button x:Name="sleep_btn" Content="Sleep" Grid.Column="1" Margin="358,385,0,0" Grid.Row="1" VerticalAlignment="Top" Width="128" Height="93" FontSize="24" Tapped="sleep_btn_Tapped" FontFamily="Ink Free"/>
+        <Button x:Name="love_btn" Content="Love" Grid.Column="1" Margin="671,385,0,0" Grid.Row="1" VerticalAlignment="Top" Width="128" Height="93" FontSize="24" Tapped="love_btn_Tapped" FontFamily="Ink Free"/>
+        <Button x:Name="play_btn" Content="Play" Grid.Column="1" Margin="907,385,0,0" Grid.Row="1" VerticalAlignment="Top" Width="128" Height="93" FontSize="24" Tapped="play_btn_Tapped" FontFamily="Ink Free"/>
+        <Slider x:Name="sound_volum" Grid.Column="1" HorizontalAlignment="Left" Margin="735,0,0,0" Grid.Row="2" VerticalAlignment="Center" Width="237" Height="42" ValueChanged="sound_volum_ValueChanged" Maximum="100"/>
+        <Image x:Name="mute_icon" Grid.Column="1" HorizontalAlignment="Left" Height="43" Margin="650,0,0,0" Grid.Row="2" VerticalAlignment="Center" Width="41" Source="/Assets/icons/mute.png" Visibility="Collapsed" Tapped="mute_icon_Tapped"/>
+        <Image x:Name="sound_icon" Grid.Column="1" HorizontalAlignment="Left" Height="43" Margin="650,0,0,0" Grid.Row="2" VerticalAlignment="Center" Width="41" Source="/Assets/icons/pngwave.png" Tapped="sound_icon_Tapped"/>
+        <Button x:Name="options_btn" Content="Options" Margin="0,41,0,0" VerticalAlignment="Top" Height="46" Width="88" Grid.Column="1" FontFamily="Ink Free">
+            <Button.Flyout>
+                <MenuFlyout Placement="Bottom">
+                    <MenuFlyoutItem x:Name="menu_btn" Text="Menu" Click="menu_btn_Click" FontFamily="Ink Free"/>
+                    <ToggleMenuFlyoutItem x:Name="grid_btn" Text="grids" Click="ToggleMenuFlyoutItem_Click_1" IsChecked="True" FontFamily="Ink Free"/>
+                    <ToggleMenuFlyoutItem x:Name="time_btn" Text="timer" Click="time_btn_Click" IsChecked="False" FontFamily="Ink Free"/>
+                    <MenuFlyoutSeparator/>
+                    <MenuFlyoutItem Text="quit" Click="MenuFlyoutItem_Click" FontFamily="Ink Free"/>
+                </MenuFlyout>
+            </Button.Flyout>
+        </Button>
+        <Popup x:Name="warning" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.Row="1" RenderTransformOrigin="0.502,0.54" Width="493" Height="311">
+            <Border BorderBrush="Black" BorderThickness="2" Width="493" Height="311" x:Name="MenuPopUp" Background="DarkGoldenrod">
+                <Border Background="LightGoldenrodYellow" Width="478" Height="296">
+                    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock Text="Warning!! all progress will be lost" FontSize="28" HorizontalAlignment="Center" VerticalAlignment="Center" FontFamily="Ink Free" />
+                        <MenuFlyoutSeparator/>
+                        <Grid Width="220" Height="50">
+                            <Button x:Name="accept" Content="Accept" Click="menu" FontFamily="Ink Free" Width="80" Height="50" VerticalAlignment="Center" HorizontalAlignment="Right"/>
+                            <Button x:Name="decline" Content="Decline" Click="close_pop_up_click" FontFamily="Ink Free" Width="80" Height="50" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+                        </Grid>
+                    </StackPanel>
+                </Border>
+            </Border>
+        </Popup>
+        <Grid x:Name ="weather" Grid.Row="1" Margin="0,0,871,311" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="311*"/>
+                <RowDefinition Height="112*"/>
+            </Grid.RowDefinitions>
+            <StackPanel Background="#FF3265CE" Grid.RowSpan="2"/>
+            <StackPanel Margin="0,0,84,25" Background="#FF1141A3"/>
+            <StackPanel Margin="0,129,0,0" Background="#FF0E2A64" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="2">
+                <StackPanel.RenderTransform>
+                    <CompositeTransform ScaleY="-1"/>
+                </StackPanel.RenderTransform>
+            </StackPanel>
+        </Grid>
+        <Image x:Name="weather_icon" Height="83" Width="100" Source="/Assets/icons/partially-cloudy.png" Margin="0,0,980,437" Grid.Row="1" Grid.Column="1"/>
+        <ToggleSwitch x:Name="weater_btn" Grid.Column="1" Header="Weather" Margin="147,23,0,0" VerticalAlignment="Top" Toggled="ToggleSwitchToggled" IsOn="True" FontFamily="Ink Free"/>
+        <Grid x:Name="AnimationGrid" Grid.Row="1" Grid.Column="1" Margin="213,0,0,163">
+            <Image x:Name="gif_image" Tapped="gif_image_Tapped" Margin="343,136,1,0"/>
+            <TextBlock x:Name="news_txt" Margin="-84,71,884,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White" RenderTransformOrigin="0.5,0.5" Height="42" UseLayoutRounding="False" d:LayoutRounding="Auto" Visibility="Visible" FontFamily="Ink Free"/>
+            <TextBlock x:Name="per_day_txt" HorizontalAlignment="Left" Margin="-204,140,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="124" Height="57" Foreground="White" Visibility="Visible" FontFamily="Ink Free"/>
+            <TextBlock x:Name="suggest_txt" HorizontalAlignment="Left" Margin="-204,104,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="White" Visibility="Visible" FontFamily="Ink Free"/>
+        </Grid>
+        <Button x:Name="help_btn" Content="Help" Grid.Column="1" Margin="213,0,0,0" Grid.Row="2" Width="88" FontFamily="Ink Free">
+            <Button.Flyout>
+                <Flyout>
+                    <StackPanel>
+                        <TextBlock Style="{ThemeResource BaseTextBlockStyle}" Text="keep an eye on the weather if the option is on," FontFamily="Ink Free"/>
+                        <TextBlock Style="{ThemeResource BaseTextBlockStyle}" Text="each weather option effect the animal differently." FontFamily="Ink Free"/>
+                        <MenuFlyoutSeparator/>
+                        <Button Click="DeleteConfirmation_Click" Content="Ok, thank you" FontFamily="Ink Free"/>
+                    </StackPanel>
+                </Flyout>
+            </Button.Flyout>
+        </Button>
+    </Grid>
+
+</Page>

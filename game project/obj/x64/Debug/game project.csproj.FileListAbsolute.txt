@@ -1,0 +1,55 @@
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\ResetScreen.xaml.cs
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\App.xbf
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\OpenScreen.xbf
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\ResetScreen.xbf
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\MainPage.xbf
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\game project.xr.xml
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\game project.exe
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\game project.pdb
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\resources.pri
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\AppxManifest.xml
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\Core\game project.exe
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\game project.build.appxrecipe
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\System.Runtime.dll
+C:\Users\schre\source\repos\game project\game project\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\App.g.i.cs
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\App.g.cs
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\OpenScreen.g.i.cs
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\OpenScreen.g.cs
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\ResetScreen.g.i.cs
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\ResetScreen.g.cs
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\MainPage.g.cs
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\App.xaml
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\OpenScreen.xaml
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\ResetScreen.xaml
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\MainPage.xaml
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\App.xbf
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\OpenScreen.xbf
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\ResetScreen.xbf
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\MainPage.xbf
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\game project.csproj.CoreCompileInputs.cache
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\game project.csproj.CopyComplete
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\game project.exe
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\game project.pdb
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\priconfig.xml
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\resources.resfiles
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\pri.resfiles
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\qualifiers.txt
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\schre\source\repos\game project\game project\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json

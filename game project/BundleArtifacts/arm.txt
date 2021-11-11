@@ -1,0 +1,6 @@
+MainPackage=C:\Users\schre\source\repos\game project\game project\bin\ARM\Debug\game project_1.0.0.0_ARM_Debug.msix
+SymbolPackage=C:\Users\schre\source\repos\game project\game project\obj\ARM\Debug\Symbols\game project_1.0.0.0_ARM_Debug.appxsym
+ResourcePack=C:\Users\schre\source\repos\game project\game project\bin\ARM\Debug\game project_1.0.0.0_scale-100.msix
+ResourcePack=C:\Users\schre\source\repos\game project\game project\bin\ARM\Debug\game project_1.0.0.0_scale-125.msix
+ResourcePack=C:\Users\schre\source\repos\game project\game project\bin\ARM\Debug\game project_1.0.0.0_scale-150.msix
+ResourcePack=C:\Users\schre\source\repos\game project\game project\bin\ARM\Debug\game project_1.0.0.0_scale-400.msix

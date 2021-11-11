@@ -1,0 +1,42 @@
+﻿<Page
+    x:Class="game_project.ResetScreen"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:game_project"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="screen">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100px"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100px"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100px"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="100px"/>
+        </Grid.ColumnDefinitions>
+        <Canvas Grid.Column="1" Grid.Row="1" Background="LightGoldenrodYellow">
+            <Image x:Name="dance" Height="100" Canvas.Left="886" Canvas.Top="334" Width="100" Source="assets/gifs/jump_gif.gif"/>
+            <Image x:Name="dance1" Height="100" Canvas.Left="103" Canvas.Top="334" Width="100" Source="assets/gifs/jump_gif.gif" RenderTransformOrigin="0.5,0.5">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="-1"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+        </Canvas>
+        <Button x:Name="quit_btn" Content="Quit game" Margin="0,398,0,0" VerticalAlignment="Top" Height="48" Width="98" BorderBrush="#FF3B9598" Background="#FF1B1810" Foreground="White" FontSize="17" FontFamily="Ink Free" Tapped="quit_btn_Tapped" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="1"/>
+        <Button x:Name="reset_btn" Content="Reset game" Margin="0,276,0,0" Height="89" Width="196" BorderBrush="#FF3B9598" Background="#FF1B1810" Foreground="White" FontSize="35" FontFamily="Ink Free" Tapped="reset_btn_Tapped" Grid.Column="1" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Top"/>
+        <TextBlock x:Name="score" Margin="323,42,279,385" Text="You'r pet died!" TextWrapping="Wrap" FontSize="75" FocusVisualSecondaryBrush="#99FFFFFF" FocusVisualPrimaryBrush="White" Foreground="#FF040404" SelectionHighlightColor="White" Grid.Column="1" Grid.Row="1" FontFamily="Ink Free"/>
+        <TextBlock x:Name="score1" Margin="323,140,499,326" Text="Time alive:" TextWrapping="Wrap" FontSize="48" FocusVisualSecondaryBrush="#99FFFFFF" FocusVisualPrimaryBrush="White" Foreground="#FF040404" SelectionHighlightColor="White" Grid.Column="1" Grid.Row="1" FontFamily="Ink Free"/>
+        <TextBlock x:Name="time_txt" HorizontalAlignment="Left" Margin="337,187,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Height="61" Width="418" Foreground="Black" FocusVisualSecondaryBrush="#990D0D0D" SelectionHighlightColor="#FF4F9EDD" Grid.Column="1" Grid.Row="1" FontSize="48" TextAlignment="Center" FontFamily="Ink Free"/>
+        <Border BorderThickness="2" BorderBrush="Black" Grid.Column="1" Grid.Row="1" Margin="323,183,319,276" Height="61"/>
+    </Grid>
+</Page>

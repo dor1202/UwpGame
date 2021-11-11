@@ -1,0 +1,2 @@
+MainPackage=C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\game project_1.0.0.0_x86_Debug.msix
+SymbolPackage=C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\Symbols\game project_1.0.0.0_x86_Debug.appxsym

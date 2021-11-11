@@ -1,0 +1,13 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-150"
+"ResourceDimensions"		"scale-150"
+
+[Files]
+"C:\Users\schre\source\repos\game project\game project\obj\ARM\Debug\split.scale-150.pri"			"resources.pri"
+"C:\Users\schre\source\repos\game project\game project\obj\ARM\Debug\PackageLayout\Assets\tiles\Wide310x150Logo.scale-150.png"			"Assets\tiles\Wide310x150Logo.scale-150.png"
+"C:\Users\schre\source\repos\game project\game project\obj\ARM\Debug\PackageLayout\Assets\tiles\StoreLogo.scale-150.png"			"Assets\tiles\StoreLogo.scale-150.png"
+"C:\Users\schre\source\repos\game project\game project\obj\ARM\Debug\PackageLayout\Assets\tiles\Square150x150Logo.scale-150.png"			"Assets\tiles\Square150x150Logo.scale-150.png"
+"C:\Users\schre\source\repos\game project\game project\obj\ARM\Debug\PackageLayout\Assets\tiles\SplashScreen.scale-150.png"			"Assets\tiles\SplashScreen.scale-150.png"
+"C:\Users\schre\source\repos\game project\game project\obj\ARM\Debug\PackageLayout\Assets\tiles\SmallTile.scale-150.png"			"Assets\tiles\SmallTile.scale-150.png"
+"C:\Users\schre\source\repos\game project\game project\obj\ARM\Debug\PackageLayout\Assets\tiles\Logo.scale-150.png"			"Assets\tiles\Logo.scale-150.png"
+"C:\Users\schre\source\repos\game project\game project\obj\ARM\Debug\PackageLayout\Assets\tiles\LargeTile.scale-150.png"			"Assets\tiles\LargeTile.scale-150.png"

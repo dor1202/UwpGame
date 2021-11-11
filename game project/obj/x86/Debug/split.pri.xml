@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="0067457a-f020-4749-b08a-a989cc3e2daf" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>LIGHTUNPLATED,UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="game project.xr.xml" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/game project.xr.xml">
+				<Candidate type="Path">
+					<Value>game project.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OpenScreen.xbf" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/OpenScreen.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ResetScreen.xbf" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/ResetScreen.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="orange.png" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/orange.png">
+					<Candidate type="Path">
+						<Value>Assets\orange.png</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="gifs">
+					<NamedResource name="dead_gif.gif" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/gifs/dead_gif.gif">
+						<Candidate type="Path">
+							<Value>Assets\gifs\dead_gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="food_gif.gif" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/gifs/food_gif.gif">
+						<Candidate type="Path">
+							<Value>Assets\gifs\food_gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="hungry_gif.gif" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/gifs/hungry_gif.gif">
+						<Candidate type="Path">
+							<Value>Assets\gifs\hungry_gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="jump_gif.gif" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/gifs/jump_gif.gif">
+						<Candidate type="Path">
+							<Value>Assets\gifs\jump_gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="love_gif.gif" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/gifs/love_gif.gif">
+						<Candidate type="Path">
+							<Value>Assets\gifs\love_gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="need_love_gif.gif" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/gifs/need_love_gif.gif">
+						<Candidate type="Path">
+							<Value>Assets\gifs\need_love_gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="play_gif.gif" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/gifs/play_gif.gif">
+						<Candidate type="Path">
+							<Value>Assets\gifs\play_gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="sleep_gif.gif" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/gifs/sleep_gif.gif">
+						<Candidate type="Path">
+							<Value>Assets\gifs\sleep_gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="stand_gif.gif" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/gifs/stand_gif.gif">
+						<Candidate type="Path">
+							<Value>Assets\gifs\stand_gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="tired_gif.gif" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/gifs/tired_gif.gif">
+						<Candidate type="Path">
+							<Value>Assets\gifs\tired_gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="try_gif.gif" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/gifs/try_gif.gif">
+						<Candidate type="Path">
+							<Value>Assets\gifs\try_gif.gif</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="icons">
+					<NamedResource name="mute.png" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/icons/mute.png">
+						<Candidate type="Path">
+							<Value>Assets\icons\mute.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="partially-cloudy.png" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/icons/partially-cloudy.png">
+						<Candidate type="Path">
+							<Value>Assets\icons\partially-cloudy.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="pngwave.png" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/icons/pngwave.png">
+						<Candidate type="Path">
+							<Value>Assets\icons\pngwave.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="sounds">
+					<NamedResource name="Chill guitar sound to relax - Som tranquilo de violão para relaxar #sleepmusic.mp3" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/sounds/Chill guitar sound to relax - Som tranquilo de violão para relaxar #sleepmusic.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\Chill guitar sound to relax - Som tranquilo de violão para relaxar #sleepmusic.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="my_weather.mp3" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/sounds/my_weather.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\my_weather.mp3</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Tamagotchi.mp3" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/sounds/Tamagotchi.mp3">
+						<Candidate type="Path">
+							<Value>Assets\sounds\Tamagotchi.mp3</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="tiles">
+					<NamedResource name="LargeTile.png" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/tiles/LargeTile.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\tiles\LargeTile.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Logo.png" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/tiles/Logo.png">
+						<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\tiles\Logo.altform-unplated_targetsize-48.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-48, AlternateForm-LIGHTUNPLATED" type="Path">
+							<Value>Assets\tiles\Logo.altform-lightunplated_targetsize-48.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+							<Value>Assets\tiles\Logo.targetsize-48.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\tiles\Logo.altform-unplated_targetsize-32.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-32, AlternateForm-LIGHTUNPLATED" type="Path">
+							<Value>Assets\tiles\Logo.altform-lightunplated_targetsize-32.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+							<Value>Assets\tiles\Logo.targetsize-32.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\tiles\Logo.altform-unplated_targetsize-256.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-256, AlternateForm-LIGHTUNPLATED" type="Path">
+							<Value>Assets\tiles\Logo.altform-lightunplated_targetsize-256.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+							<Value>Assets\tiles\Logo.targetsize-256.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\tiles\Logo.altform-unplated_targetsize-24.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-24, AlternateForm-LIGHTUNPLATED" type="Path">
+							<Value>Assets\tiles\Logo.altform-lightunplated_targetsize-24.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+							<Value>Assets\tiles\Logo.targetsize-24.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+							<Value>Assets\tiles\Logo.altform-unplated_targetsize-16.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-16, AlternateForm-LIGHTUNPLATED" type="Path">
+							<Value>Assets\tiles\Logo.altform-lightunplated_targetsize-16.png</Value>
+						</Candidate>
+						<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+							<Value>Assets\tiles\Logo.targetsize-16.png</Value>
+						</Candidate>
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\tiles\Logo.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SmallTile.png" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/tiles/SmallTile.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\tiles\SmallTile.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="SplashScreen.png" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/tiles/SplashScreen.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\tiles\SplashScreen.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Square150x150Logo.png" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/tiles/Square150x150Logo.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\tiles\Square150x150Logo.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="StoreLogo.png" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/tiles/StoreLogo.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\tiles\StoreLogo.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="Wide310x150Logo.png" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Assets/tiles/Wide310x150Logo.png">
+						<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+							<Value>Assets\tiles\Wide310x150Logo.scale-200.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://0067457a-f020-4749-b08a-a989cc3e2daf/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

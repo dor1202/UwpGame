@@ -1,0 +1,114 @@
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\App.xbf
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\MainPage.xbf
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\game project.xr.xml
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\game project.exe
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\game project.pdb
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\resources.pri
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\AppxManifest.xml
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\Core\game project.exe
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\game project.build.appxrecipe
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\System.Runtime.dll
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\App.g.i.cs
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\App.g.cs
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\MainPage.g.cs
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\App.xaml
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\MainPage.xaml
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\App.xbf
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\MainPage.xbf
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\game project.csproj.CoreCompileInputs.cache
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\game project.csproj.CopyComplete
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\game project.exe
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\game project.pdb
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\priconfig.xml
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\resources.resfiles
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\pri.resfiles
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\qualifiers.txt
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\ResetScreen.xbf
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\ResetScreen.g.i.cs
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\ResetScreen.g.cs
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\ResetScreen.xaml
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\ResetScreen.xbf
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\ResetScreen.xaml.cs
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\OpenScreen.xbf
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\OpenScreen.g.i.cs
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\OpenScreen.g.cs
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\OpenScreen.xaml
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\OpenScreen.xbf
+C:\Users\schre\source\repos\game project\game project\obj\x86\Debug\game project.csprojAssemblyReference.cache
+C:\Users\schre\source\repos\game project\game project\bin\x86\Debug\Core\ForBundle\AppxManifest.xml
+C:\SelaCollege\game project\game project\bin\x86\Debug\ResetScreen.xaml.cs
+C:\SelaCollege\game project\game project\bin\x86\Debug\App.xbf
+C:\SelaCollege\game project\game project\bin\x86\Debug\OpenScreen.xbf
+C:\SelaCollege\game project\game project\bin\x86\Debug\ResetScreen.xbf
+C:\SelaCollege\game project\game project\bin\x86\Debug\MainPage.xbf
+C:\SelaCollege\game project\game project\bin\x86\Debug\game project.xr.xml
+C:\SelaCollege\game project\game project\bin\x86\Debug\game project.exe
+C:\SelaCollege\game project\game project\bin\x86\Debug\game project.pdb
+C:\SelaCollege\game project\game project\bin\x86\Debug\resources.pri
+C:\SelaCollege\game project\game project\bin\x86\Debug\AppxManifest.xml
+C:\SelaCollege\game project\game project\bin\x86\Debug\Core\AppxManifest.xml
+C:\SelaCollege\game project\game project\bin\x86\Debug\Core\ForBundle\AppxManifest.xml
+C:\SelaCollege\game project\game project\bin\x86\Debug\Core\game project.exe
+C:\SelaCollege\game project\game project\bin\x86\Debug\game project.build.appxrecipe
+C:\SelaCollege\game project\game project\bin\x86\Debug\System.Runtime.dll
+C:\SelaCollege\game project\game project\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\SelaCollege\game project\game project\obj\x86\Debug\game project.csprojAssemblyReference.cache
+C:\SelaCollege\game project\game project\obj\x86\Debug\App.g.i.cs
+C:\SelaCollege\game project\game project\obj\x86\Debug\App.g.cs
+C:\SelaCollege\game project\game project\obj\x86\Debug\OpenScreen.g.i.cs
+C:\SelaCollege\game project\game project\obj\x86\Debug\OpenScreen.g.cs
+C:\SelaCollege\game project\game project\obj\x86\Debug\ResetScreen.g.i.cs
+C:\SelaCollege\game project\game project\obj\x86\Debug\ResetScreen.g.cs
+C:\SelaCollege\game project\game project\obj\x86\Debug\MainPage.g.i.cs
+C:\SelaCollege\game project\game project\obj\x86\Debug\MainPage.g.cs
+C:\SelaCollege\game project\game project\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\SelaCollege\game project\game project\obj\x86\Debug\App.xaml
+C:\SelaCollege\game project\game project\obj\x86\Debug\OpenScreen.xaml
+C:\SelaCollege\game project\game project\obj\x86\Debug\ResetScreen.xaml
+C:\SelaCollege\game project\game project\obj\x86\Debug\MainPage.xaml
+C:\SelaCollege\game project\game project\obj\x86\Debug\App.xbf
+C:\SelaCollege\game project\game project\obj\x86\Debug\OpenScreen.xbf
+C:\SelaCollege\game project\game project\obj\x86\Debug\ResetScreen.xbf
+C:\SelaCollege\game project\game project\obj\x86\Debug\MainPage.xbf
+C:\SelaCollege\game project\game project\obj\x86\Debug\XamlSaveStateFile.xml
+C:\SelaCollege\game project\game project\obj\x86\Debug\game project.csproj.CoreCompileInputs.cache
+C:\SelaCollege\game project\game project\obj\x86\Debug\game project.csproj.CopyComplete
+C:\SelaCollege\game project\game project\obj\x86\Debug\game project.exe
+C:\SelaCollege\game project\game project\obj\x86\Debug\game project.pdb
+C:\SelaCollege\game project\game project\obj\x86\Debug\ResourceHandlingTask.state
+C:\SelaCollege\game project\game project\obj\x86\Debug\priconfig.xml
+C:\SelaCollege\game project\game project\obj\x86\Debug\priconfig.xml.intermediate
+C:\SelaCollege\game project\game project\obj\x86\Debug\unfiltered.layout.resfiles
+C:\SelaCollege\game project\game project\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\SelaCollege\game project\game project\obj\x86\Debug\filtered.layout.resfiles
+C:\SelaCollege\game project\game project\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\SelaCollege\game project\game project\obj\x86\Debug\excluded.layout.resfiles
+C:\SelaCollege\game project\game project\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\SelaCollege\game project\game project\obj\x86\Debug\resources.resfiles
+C:\SelaCollege\game project\game project\obj\x86\Debug\resources.resfiles.intermediate
+C:\SelaCollege\game project\game project\obj\x86\Debug\pri.resfiles
+C:\SelaCollege\game project\game project\obj\x86\Debug\pri.resfiles.intermediate
+C:\SelaCollege\game project\game project\obj\x86\Debug\qualifiers.txt
+C:\SelaCollege\game project\game project\obj\x86\Debug\qualifiers.txt.intermediate
+C:\SelaCollege\game project\game project\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\SelaCollege\game project\game project\obj\x86\Debug\ProjectArchitectures.txt
+C:\SelaCollege\game project\game project\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json

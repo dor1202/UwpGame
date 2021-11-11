@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <UseSimulator>false</UseSimulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AppIconSource>C:\Users\schre\source\repos\game project\game project\Assets\orange.png</AppIconSource>
+    <Source>C:\Users\schre\source\repos\game project\game project\Assets\orange.png</Source>
+    <SmallTileSource>C:\Users\schre\source\repos\game project\game project\Assets\orange.png</SmallTileSource>
+    <MediumTileSource>C:\Users\schre\source\repos\game project\game project\Assets\orange.png</MediumTileSource>
+    <WideTileSource>C:\Users\schre\source\repos\game project\game project\Assets\orange.png</WideTileSource>
+    <LargeTileSource>C:\Users\schre\source\repos\game project\game project\Assets\orange.png</LargeTileSource>
+    <SplashScreenSource>C:\Users\schre\source\repos\game project\game project\Assets\orange.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\schre\source\repos\game project\game project\Assets\orange.png</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <ProjectView>ProjectFiles</ProjectView>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30f105c9-681e-420b-a277-7c086ead8a4e</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>
